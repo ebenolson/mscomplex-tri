@@ -95,6 +95,7 @@ target_link_libraries(
   ${PYTHONQT_LIBRARY}
   ${PYTHON_LIBRARIES}
   ${GLEW_LIBRARY}
+  ${GLU_LIBRARY}
   GL
   )
 
